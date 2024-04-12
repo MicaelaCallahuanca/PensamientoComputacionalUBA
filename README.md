@@ -1,1 +1,1 @@
-# Pensamiento_Computacional_UBA
+I am doing a bachelor's degree in data science at the University of Buenos Aires. One of the subjects I am studying is "Computational Thinking" and I decided to upload the assignments they give me about Python.
